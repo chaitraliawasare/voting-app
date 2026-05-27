@@ -276,7 +276,15 @@ Result dashboard uses frontend polling to fetch updated vote counts automaticall
 
 _Add screenshots of the vote app and result dashboard here._
 
+## Vote Application
+
+![Vote App](screenshots/vote-app.png)
+
 ---
+
+## Result Dashboard
+
+## ![Result Dashboard](screenshots/result-dashboard.png)
 
 # Author
 
