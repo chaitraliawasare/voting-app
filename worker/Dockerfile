@@ -1,0 +1,11 @@
+FROM mcr.microsoft.com/dotnet/sdk:10.0
+
+WORKDIR /app
+
+COPY . .
+
+RUN dotnet restore
+
+RUN dotnet build
+
+CMD [  "dotnet", "run" ]
