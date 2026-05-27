@@ -278,13 +278,13 @@ _Add screenshots of the vote app and result dashboard here._
 
 ## Vote Application
 
-![Vote App](screenshots/vote-app.png)
+![Vote App](screenshots/voting-app.png)
 
 ---
 
 ## Result Dashboard
 
-## ![Result Dashboard](screenshots/result-dashboard.png)
+## ![Result Dashboard](screenshots/results.png)
 
 # Author
 
